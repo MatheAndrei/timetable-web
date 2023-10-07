@@ -1,0 +1,123 @@
+{
+    "name": "Mathe Andrei",
+    "days": {
+        "Monday": [
+            {
+                "name": "Programare pentru dispozitive mobile",
+                "teacher": "Lect. COJOCAR Dan",
+                "type": "lab",
+                "room": "L404",
+                "start": "08:00",
+                "end": "10:00",
+                "frequency": "sapt. 2"
+            }
+        ],
+        "Tuesday": [
+            {
+                "name": "Programare paralela si distribuita",
+                "teacher": "Lect. LUPSA Radu",
+                "type": "lecture",
+                "room": "2/I",
+                "start": "16:00",
+                "end": "18:00",
+                "frequency": ""
+            }
+        ],
+        "Wednesday": [
+            {
+                "name": "Arhitectura aplicatiilor cloud",
+                "teacher": "Lect. GREBLA Horea",
+                "type": "lecture",
+                "room": "C310",
+                "start": "08:00",
+                "end": "10:00",
+                "frequency": ""
+            },
+            {
+                "name": "Limbaje formale si tehnici de compilare",
+                "teacher": "Prof. MOTOGNA Simona",
+                "type": "lecture",
+                "room": "2/I",
+                "start": "10:00",
+                "end": "12:00",
+                "frequency": ""
+            },
+            {
+                "name": "Limbaje formale si tehnici de compilare",
+                "teacher": "C.d.asociat BERCIU Liviu",
+                "type": "lab",
+                "room": "L002",
+                "start": "14:00",
+                "end": "16:00",
+                "frequency": ""
+            },
+            {
+                "name": "Programare pentru dispozitive mobile",
+                "teacher": "Lect. COJOCAR Dan",
+                "type": "lecture",
+                "room": "2/I",
+                "start": "18:00",
+                "end": "20:00",
+                "frequency": ""
+            }
+        ],
+        "Thursday": [
+            {
+                "name": "Criptografie cu cheie publica",
+                "teacher": "Prof. CRIVEI Septimiu",
+                "type": "lecture",
+                "room": "A2",
+                "start": "14:00",
+                "end": "16:00",
+                "frequency": ""
+            },
+            {
+                "name": "Arhitectura aplicatiilor cloud",
+                "teacher": "C.d.asociat STEFANI Andrei",
+                "type": "lab",
+                "room": "L320",
+                "start": "16:00",
+                "end": "18:00",
+                "frequency": "sapt. 1"
+            },
+            {
+                "name": "Criptografie cu cheie publica",
+                "teacher": "Drd. CHIRU Iulia",
+                "type": "lab",
+                "room": "L439",
+                "start": "18:00",
+                "end": "20:00",
+                "frequency": "sapt. 1"
+            }
+        ],
+        "Friday": [
+            {
+                "name": "Limbaje formale si tehnici de compilare",
+                "teacher": "Lect. PETRASCU Vladiela",
+                "type": "seminar",
+                "room": "C310",
+                "start": "12:00",
+                "end": "14:00",
+                "frequency": ""
+            },
+            {
+                "name": "Proiect colectiv",
+                "teacher": "Drd. Doctorand Info",
+                "type": "lab",
+                "room": "L336",
+                "start": "16:00",
+                "end": "18:00",
+                "frequency": ""
+            },
+            {
+                "name": "Programare paralela si distribuita",
+                "teacher": "C.d.asociat IUDEAN Bogdan",
+                "type": "lab",
+                "room": "L002",
+                "start": "18:00",
+                "end": "20:00",
+                "frequency": ""
+            }
+        ]
+    }
+}
