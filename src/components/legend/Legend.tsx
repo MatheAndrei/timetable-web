@@ -33,11 +33,11 @@ export const Legend = () => {
 
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>L002 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>L320 - FSEGA</Typography>
+					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>L321 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>L336 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>L404 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>L439 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>C310 - FSEGA</Typography>
-					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>C320 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>A2 - FSEGA</Typography>
 					<Typography variant={"subtitle2"} lineHeight={"1.8em"}>2/I - Cladirea centrala (Str. Mihail Kogalniceanu 1)</Typography>
 				</AccordionDetails>
